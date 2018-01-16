@@ -1,7 +1,7 @@
 // Generate no-frills HTML input
-import React from 'react';
+import React, { Component } from 'react';
 
-class SearchBar extends React.Component {
+class SearchBar extends Component {
   render() {
     return <input />;
   };
