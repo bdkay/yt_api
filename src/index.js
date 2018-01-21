@@ -17,7 +17,6 @@ const App = () => {
 };
 
 //COMPONENT INSTANCE
-// <App />
 
 // take this component's generated HTML and put it on the DOM
 ReactDOM.render(<App />, document.querySelector('.container'));
